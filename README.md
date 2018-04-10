@@ -5,11 +5,6 @@ Keras-FCN
 
 Fully convolutional networks and semantic segmentation with Keras.
 
-![Biker Image](doc/2007_000129.jpg)
-
-![Biker Ground Truth](doc/2007_000129.png)
-
-![Biker as classified by AtrousFCN_Resnet50_16s](doc/AtrousFCN_Resnet50_16s_2007_000129.png)
 
 ## Models
 
